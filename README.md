@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tania Banerjee 👋
 
-<!--
-**Tania94-hub/Tania94-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with skills in Python, SQL, and Excel.
 
-Here are some ideas to get you started:
+## Skills
+• Python
+• MySQL
+• Excel
+• Data Analysis
+• Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+• Swiggy Restaurant Recommendation System
+• IMDb Movie Recommendation System
+• Data Driven Stock Analysis
+• Client Query Dashboard
+• Nutriclass Food Classification
+
+Currently completing Data Science Program from GUVI.
