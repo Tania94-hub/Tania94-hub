@@ -1,6 +1,6 @@
 # Hi, I'm Tania Banerjee 👋
 
-Aspiring Data Analyst with skills in Python, SQL, and Excel.
+Data Analyst with skills in Python, SQL, and Excel.
 
 ## Skills
 • Python
