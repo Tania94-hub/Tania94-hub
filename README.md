@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔍 Data Analyst with **5+ years** of experience working with real production data at **Wipro**
+- 🔍 Data Analyst with **6+ years** of experience working with real production data at **Wipro**
 - 📊 Skilled in turning complex datasets into **actionable business insights** that drive decisions
 - 🤖 Hands-on experience in **Machine Learning, NLP, EDA, Predictive Analytics & Dashboarding**
 - 🎓 Currently completing **Data Analytics Certification** — HCL GUVI (IIT Madras Incubated, NASSCOM Approved)
