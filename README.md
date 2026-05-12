@@ -55,7 +55,7 @@
 | 💰 | [Sales & Profit Analysis](https://github.com/Tania94-hub/sales-profit-analysis) | End-to-end EDA on Superstore data uncovering profit patterns across regions and categories | Python, Pandas, Matplotlib, Power BI | 9,994 orders • 49 states |
 | 📊 | [Client Query Dashboard](https://github.com/Tania94-hub/ASSIGNMENT-1) | Interactive BI dashboard tracking service KPIs, query volumes and resolution trends in real time | Python, Streamlit | Operational Data |
 
----
+| 🎬 | [Face-Segmentation-Movie-Cast](https://github.com/Tania94-hub/Face-Segmentation-Movie-Cast) | Real-time face segmentation in movie scenes using U-Net deep learning models | Python, TensorFlow, OpenCV, Streamlit | 409 images • 4 models trained |
 
 ## 📊 GitHub Stats
 
@@ -72,11 +72,7 @@
 
 ## 🏆 Certifications
 
-- 📜 **Data Analytics Certification** — HCL GUVI (IIT Madras Incubated, NASSCOM Approved) *(In Progress — 2026)*
-- 📜 **SQL for Data Analysis** — Self-certified
-- 📜 **Advanced Excel** — Self-certified
-- 📜 **Python for Data Science** — Self-certified
-
+- - **Master Data Science Program** – HCL GUVI (IIT Madras Incubated, NASSCOM Approved) *(Completed – May 2026)* | [View Certificate](https://www.zenclass.in/certificateDownload/nnddypFNEoaHRRIR)
 ---
 
 ## 📌 What I'm Currently Working On
