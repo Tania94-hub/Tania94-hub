@@ -9,13 +9,13 @@
 
 ## 👩‍💻 About Me
 
-- 🔍 Data Analyst with **6+ years** of experience working with real production data at **Wipro**
-- 📊 Skilled in turning complex datasets into **actionable business insights** that drive decisions
-- 🤖 Hands-on experience in **Machine Learning, NLP, EDA, Predictive Analytics & Dashboarding**
-- 🎓 Currently completing **Data Analytics Certification** — HCL GUVI (IIT Madras Incubated, NASSCOM Approved)
-- 🌏 Based in **Kolkata, India** | Open to **Remote Opportunities**
+- 🔍 Data Analyst with **6+ years** of experience working with real production data at **Wipro & Tech Mahindra**
+- 📊 Skilled in turning complex datasets into **actionable business insights** that drive measurable decisions
+- 🤖 Hands-on expertise in **Deep Learning, Computer Vision, Machine Learning, NLP, EDA, Predictive Analytics & Dashboarding**
+- 🎓 ✅ Completed **Data Analytics Certification** — HCL GUVI (IIT Madras Incubated, NASSCOM Approved) | Capstone: Real-Time Face Segmentation using Deep Learning (U-Net, TensorFlow, OpenCV, Streamlit)
+- 💼 Built **7 end-to-end projects** spanning ML, NLP, Computer Vision, Recommendation Systems & BI Dashboards
+- 🌍 Based in **Kolkata, India** | Open to **Fully Remote Opportunities** globally
 - 💡 Strong **data storytelling** skills backed by an English Literature background
-
 ---
 
 ## 🛠️ Tech Stack
