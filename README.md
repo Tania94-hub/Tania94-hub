@@ -1,5 +1,10 @@
 # Hi, I'm Tania Banerjee 👋
-### Data Analyst | SQL • Python • Tableau • Power BI • Machine Learning
+**Data Analyst | Python • SQL • Advanced Excel | Certified Data Science Professional**
+
+I'm a data-driven professional specializing in data analysis, visualization, and machine learning. Recently completed Master Data Science Program from HCL GUVI (IIT Madras incubated, NASSCOM approved). Transforming raw data into actionable business insights through Python, SQL, and modern analytics tools.
+
+Currently seeking **fully remote Data Analyst roles** with **US/UK-based companies**. Open to combining **Data Analytics with Scrum Master expertise** for enhanced value delivery.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tania-banerjee-409774261)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tania94-hub)
@@ -46,32 +51,122 @@
 
 ## 🚀 Featured Projects
 
-| # | Project | Description | Tools | Scale |
-|---|---------|-------------|-------|-------|
-| 🍽️ | [Swiggy Restaurant Recommendation System](https://github.com/Tania94-hub/Swiggy-Restaurant-Recommendation-System) | Content-based recommendation engine using cosine similarity with live Streamlit app | Python, Scikit-learn, Streamlit | 1,48,541 records • 821 cities |
-| 🥗 | [NutriClass Food Classification](https://github.com/Tania94-hub/NutriClass_Food_Classification) | ML classifier to categorize food items by nutritional profile — 98.79% accuracy | Python, Random Forest, Scikit-learn | 31,700 food items • 16 features |
-| 📈 | [Data-Driven Stock Analysis](https://github.com/Tania94-hub/Data-Driven-Stock-Analysis) | Trend, volatility, sector & correlation analysis with interactive Streamlit + Power BI dashboard | Python, Pandas, NumPy, Power BI | 50 companies • 21 sectors |
-| 🎬 | [IMDb Movie Recommendation System](https://github.com/Tania94-hub/imdb-movie-recommendation-system) | NLP-based recommendation system using TF-IDF + Cosine Similarity on scraped storylines | Python, Selenium, NLTK, Streamlit | 5,099 movies scraped |
-| 💰 | [Sales & Profit Analysis](https://github.com/Tania94-hub/sales-profit-analysis) | End-to-end EDA on Superstore data uncovering profit patterns across regions and categories | Python, Pandas, Matplotlib, Power BI | 9,994 orders • 49 states |
-| 📊 | [Client Query Dashboard](https://github.com/Tania94-hub/ASSIGNMENT-1) | Interactive BI dashboard tracking service KPIs, query volumes and resolution trends in real time | Python, Streamlit | Operational Data |
-| 🎬 | [Face-Segmentation-Movie-Cast](https://github.com/Tania94-hub/Face-Segmentation-Movie-Cast) | Real-time face segmentation in movie scenes using U-Net deep learning models | Python, TensorFlow, OpenCV, Streamlit | 409 images • 4 models trained |
+### 1. 🎬 **Real-Time Face Segmentation for Movie Cast Identification**
+Advanced deep learning system using U-Net architectures to segment faces in video frames for automated actor identification. Built during GUVI Master Data Science capstone.
 
-## 📊 GitHub Stats
+- **Key Metrics:** 0.679 Dice coefficient (validation), 3 U-Net variants (MobileNetV2, Custom, VGG16)
+- **Tech Stack:** Python, TensorFlow, Google Colab, Streamlit, OpenCV
+- **Deliverables:** Pre-trained model weights, Streamlit web application, Loom demo video
+- **GitHub:** [Real-Time Face Segmentation Repository](https://github.com/Tania94-hub/Face-Segmentation-for-Cast-Identification)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tania94-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tania94-hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tania94-hub&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+### 2. 📊 **Client Query Management System**
+Production-ready support ticket management platform with role-based access control, real-time analytics dashboard, and SQLite backend for seamless customer issue tracking.
+
+- **Key Features:** User authentication, Query categorization, Support metrics dashboard, Admin analytics
+- **Tech Stack:** Python, Streamlit, SQLite, Pandas, Datetime
+- **Database:** SQLite with relational schema
+- **GitHub:** [Client Query Management System](https://github.com/Tania94-hub/ASSIGNMENT-1)
+
+---
+
+### 3. 🍔 **Swiggy Restaurant Recommendation System**
+Content-based recommendation engine analyzing 148,000+ restaurant records. Provides personalized dining recommendations using similarity scoring algorithms.
+
+- **Dataset Size:** 148,000+ restaurant records with metadata
+- **Tech Stack:** Python, Pandas, Scikit-learn, NumPy, SQL
+- **Algorithm:** Content-based filtering with cosine similarity
+- **GitHub:** [Swiggy Restaurant Recommendation System](https://github.com/Tania94-hub/Swiggy-Restaurant-Recommendation-System)
+
+---
+
+### 4. 🎬 **IMDb Movie Recommendation System**
+NLP-powered content-based recommendation engine using TF-IDF vectorization and cosine similarity across 5,099 movie titles from IMDb 2024 dataset.
+
+- **Dataset:** 5,099 movies with descriptions and metadata
+- **Tech Stack:** Python, Natural Language Processing, Scikit-learn, NLTK, Pandas
+- **ML Technique:** TF-IDF + Cosine Similarity
+- **GitHub:** [IMDb Movie Recommendation System](https://github.com/Tania94-hub/imdb-movie-recommendation-system)
+
+---
+
+### 5. 📈 **Data-Driven Stock Analysis Dashboard**
+Comprehensive analysis platform for 50 NSE companies covering trend analysis, volatility calculations, sector performance metrics, and stock correlation studies with interactive visualizations.
+
+- **Dataset:** 50 NSE companies with historical data
+- **Analysis Types:** Trend analysis, Volatility metrics, Sector performance, Correlation studies
+- **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, SQL
+- **Visualizations:** Multiple interactive charts and heatmaps
+- **GitHub:** [Data-Driven Stock Analysis](https://github.com/Tania94-hub/Data-Driven-Stock-Analysis)
+
+---
+
+### 6. 🥗 **NutriClass - Food Classification System**
+Machine learning classification model achieving 98.79% accuracy across 31,700 food items using Random Forest classifier with comprehensive feature engineering.
+
+- **Dataset:** 31,700 food items with nutritional metadata
+- **Model Performance:** 98.79% accuracy (Random Forest)
+- **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Matplotlib
+- **Features:** Data preprocessing, Feature selection, Model evaluation, Cross-validation
+- **GitHub:** [NutriClass Food Classification](https://github.com/Tania94-hub/NutriClass_Food_Classification)
+
+---
+## 🛠️ Technical Skills
+
+**Programming Languages:**
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow, NLTK)
+- SQL (MySQL, SQLite, Query optimization)
+- Advanced Excel (Pivot tables, VLOOKUP, Data modeling)
+
+**Data Analytics & Visualization:**
+- Pandas, NumPy, Matplotlib, Seaborn
+- Streamlit (Web app development)
+- Dashboard creation & reporting
+
+**Machine Learning:**
+- Supervised Learning (Classification, Regression)
+- Unsupervised Learning (Clustering, Dimensionality reduction)
+- NLP (Text preprocessing, TF-IDF, Cosine similarity)
+- Deep Learning (U-Net, CNN, Transfer learning)
+
+**Databases & Tools:**
+- MySQL, SQLite, Database design
+- Google Colab, Jupyter Notebook
+- Git & GitHub, VS Code
+- Excel, Python scripting
 
 ---
 
 ## 🏆 Certifications
 
 - - **Master Data Science Program** – HCL GUVI (IIT Madras Incubated, NASSCOM Approved) *(Completed – May 2026)* | [View Certificate](https://www.zenclass.in/certificateDownload/nnddypFNEoaHRRIR)
+- Capstone: Real-Time Face Segmentation System
+
+✅ **Professional Certifications**
+- SQL Certification
+- Advanced Excel Certification
+- Python Programming Certification
+
+📚 **Professional Background**
+- Senior Associate, Order Management @ Wipro (2023 - Present)
+- Tech Mahindra (May 2020 - 2023)
+- 6+ years professional experience
+- 
+## 💼 Work Experience & Expertise
+
+**Current Role:** Senior Associate - Order Management @ Wipro, Kolkata
+- Led process optimization initiatives
+- Cross-functional collaboration with stakeholders
+- Data-driven decision making
+
+**Expertise Areas:**
+- End-to-end data analysis workflows
+- ETL pipeline development
+- Dashboard & reporting automation
+- Predictive analytics & forecasting
+- Process optimization through data insights
+
 ---
 
 ## 📌 What I'm Currently Working On
@@ -83,17 +178,45 @@
 
 ---
 
-## 🤝 Let's Connect!
+## 🎯 What I'm Looking For
 
-I'm actively looking for **remote Data Analyst opportunities**. If you're hiring or want to collaborate, feel free to reach out!
+✨ **Fully remote Data Analyst roles** with US/UK-based companies
+- 5-7+ years equivalent professional + technical experience
+- Open to roles combining **Data Analytics + Scrum Master** capabilities
+- Interested in freelance consulting & contract opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tania%20Banerjee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tania-banerjee)
-[![Email](https://img.shields.io/badge/Email-diya1994.banerjee%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diya1994.banerjee@gmail.com)
+---
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tania94-hub&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tania94-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🌐 Let's Connect
 
-<p align="center">⭐ <i>If you find my projects useful, consider giving them a star!</i> ⭐</p>
+**Professional Profiles:**
+- 📧 Email: [diya1994.banerjee@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/tania-banerjee-409774261](https://www.linkedin.com/in/tania-banerjee-409774261)
+- 💻 GitHub: [https://github.com/Tania94-hub](https://github.com/Tania94-hub)
+- 🎯 Contra: [https://contra.com/tania_banerjee_eetf2dom]
+- 💰 Fiverr: [https://www.fiverr.com/tania_dataanaly]
+
+**Open to:**
+- Data analysis projects & consulting
+- Freelance data work through Contra, Arc.dev, Upwork
+- Full-time remote Data Analyst positions
+- Collaboration & knowledge sharing
+
+---
+
+## 💡 Current Focus
+
+- Building production-ready data solutions
+- Expanding portfolio with real-world datasets
+- Converting freelance leads into sustainable income
+- Pursuing remote full-time Data Analyst opportunities
+- Combining analytical & agile project management skills
+
+---
+
+⭐ **If you found these projects interesting, please star the repositories!**
