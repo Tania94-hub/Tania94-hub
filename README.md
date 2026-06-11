@@ -1,6 +1,11 @@
 # Hi, I'm Tania Banerjee 👋
 
-**Data Analyst • Data Scientist • Machine Learning Engineer**
+**Data Analyst | Python • SQL • Advanced Excel | Certified Data Science Professional**
+
+I'm a data-driven professional specializing in data analysis, visualization, and machine learning. Recently completed Master Data Science Program from HCL GUVI (IIT Madras incubated, NASSCOM approved). Transforming raw data into actionable business insights through Python, SQL, and modern analytics tools.
+
+Currently seeking **fully remote Data Analyst roles** with **US/UK-based companies**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tania-banerjee-409774261)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tania94-hub)
@@ -118,6 +123,24 @@ I'm actively seeking **Data Analyst / Data Scientist opportunities**. If you're 
 | 🎯 Contra | [tania_banerjee_eetf2dom](https://contra.com/tania_banerjee_eetf2dom) |
 | 💰 Fiverr | [tania_dataanaly](https://www.fiverr.com/tania_dataanaly) |
 | 📧 Email | [diya1994.banerjee@gmail.com] |
+
+---
+
+**Open to:**
+- Data analysis projects & consulting
+- Freelance data work through Contra & Fiverr
+- Open to Remote Opportunities globally 
+- Collaboration & knowledge sharing
+
+---
+
+## 💡 Current Focus
+
+- Building production-ready data solutions
+- Expanding portfolio with real-world datasets
+- Converting freelance leads into sustainable income
+- Pursuing remote full-time Data Analyst opportunities
+- Combining analytical & agile project management skills
 
 ---
 
