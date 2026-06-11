@@ -2,17 +2,30 @@
 
 **Data Analyst • Data Scientist • Machine Learning Engineer**
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Tania94--hub-black?style=flat&logo=github)](https://github.com/Tania94-hub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tania-banerjee)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tania94-hub)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diya1994.banerjee@gmail.com)
 
 ---
 
 ## 👩‍💼 About Me
 
-- 📊 **Career switcher** who made the leap into **Data Analytics & Data Science** — driven by a passion for turning raw data into real decisions
-- 🛠️ Hands-on experience in **Machine Learning, EDA, Predictive Analytics, NLP & Interactive Dashboards**
-- 🚀 Built **7+ end-to-end projects** spanning Machine Learning, Deep Learning, NLP, Computer Vision, Recommendation Systems, BI Dashboards, and AI-powered applications
-- 📍 Based in **Kolkata, India** | Open to **Remote Opportunities** globally
-- ☁️ Currently learning **cloud fundamentals** (BigQuery, AWS S3) for scalable data pipelines
+I'm a **Senior Associate in Order Management** at Wipro with **6+ years of professional experience** in data-driven operations. I transitioned into Data Analytics by completing a rigorous **Master Data Science Program from HCL GUVI**, combining my operational expertise with advanced technical skills.
+
+**My Background:**
+- Started career in Order Management & Operations (Tech Mahindra, 2020-2023)
+- Leveraged domain knowledge to pivot into Data Analytics
+- Built 7+ data projects covering ML, NLP, Deep Learning, and Business Analytics
+- Certified in SQL, Advanced Excel, and Python Programming
+
+**What I Do:**
+I help organizations unlock insights from data through end-to-end analysis, predictive modeling, and interactive dashboards. My expertise spans data cleaning, exploratory analysis, machine learning implementation, and data visualization.
+
+**Why Data Analytics?**
+I'm passionate about solving real-world problems using data. I believe that every dataset tells a story, and I love uncovering those insights to drive informed decision-making.
+
+**Current Focus:**
+Converting freelance data projects into sustainable income while actively pursuing fully remote Data Analyst opportunities with global companies.
 
 ---
 
@@ -52,13 +65,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tania94-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tania94-hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tania94-hub&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tania94-hub&layout=compact&theme=dark&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tania94-hub&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
@@ -103,7 +117,7 @@ I'm actively seeking **Data Analyst / Data Scientist opportunities**. If you're 
 | 💻 GitHub | [@Tania94-hub](https://github.com/Tania94-hub) |
 | 🎯 Contra | [tania_banerjee_eetf2dom](https://contra.com/tania_banerjee_eetf2dom) |
 | 💰 Fiverr | [tania_dataanaly](https://www.fiverr.com/tania_dataanaly) |
-| 📧 Email | [Add your email] |
+| 📧 Email | [diya1994.banerjee@gmail.com] |
 
 ---
 
