@@ -1,31 +1,39 @@
 # Hi, I'm Tania Banerjee 👋
 
-**Data Analyst | Python • SQL • Advanced Excel | Certified Data Science Professional**
+**Data Analyst • Data Scientist • Machine Learning Engineer**
 
-I'm a data-driven professional specializing in data analysis, visualization, and machine learning. Recently completed Master Data Science Program from HCL GUVI (IIT Madras incubated, NASSCOM approved). Transforming raw data into actionable business insights.
-
-Currently seeking **fully remote Data Analyst roles** with **US/UK-based companies**.
+[![GitHub](https://img.shields.io/badge/GITHUB-Tania94--hub-black?style=flat&logo=github)](https://github.com/Tania94-hub)
 
 ---
 
 ## 👩‍💼 About Me
 
-I'm a **Senior Associate in Order Management** at Wipro with **6+ years of professional experience** in data-driven operations. I transitioned into Data Analytics by completing a rigorous **Master Data Science Program from HCL GUVI**, combining my operational expertise with advanced technical skills.
+- 📊 **Career switcher** who made the leap into **Data Analytics & Data Science** — driven by a passion for turning raw data into real decisions
+- 🛠️ Hands-on experience in **Machine Learning, EDA, Predictive Analytics, NLP & Interactive Dashboards**
+- 🚀 Built **7+ end-to-end projects** spanning Machine Learning, Deep Learning, NLP, Computer Vision, Recommendation Systems, BI Dashboards, and AI-powered applications
+- 📍 Based in **Kolkata, India** | Open to **Remote Opportunities** globally
+- ☁️ Currently learning **cloud fundamentals** (BigQuery, AWS S3) for scalable data pipelines
 
-**My Background:**
-- Started career in Order Management & Operations (Tech Mahindra, 2020-2023)
-- Leveraged domain knowledge to pivot into Data Analytics
-- Built 7+ data projects covering ML, NLP, Deep Learning, and Business Analytics
-- Certified in SQL, Advanced Excel, and Python Programming
+---
 
-**What I Do:**
-I help organizations unlock insights from data through end-to-end analysis, predictive modeling, and interactive dashboards. My expertise spans data cleaning, exploratory analysis, machine learning implementation, and data visualization.
+## 🛠️ Tech Stack
 
-**Why Data Analytics?**
-I'm passionate about solving real-world problems using data. I believe that every dataset tells a story, and I love uncovering those insights to drive informed decision-making.
+### Languages & Querying
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Current Focus:**
-Converting freelance data projects into sustainable income while actively pursuing fully remote Data Analyst opportunities with global companies.
+### Analytics & Machine Learning
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Visualization & BI
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-1F77B4?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/PLOTLY-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
@@ -44,14 +52,13 @@ Converting freelance data projects into sustainable income while actively pursui
 
 ## 📊 GitHub Stats
 
-| Metric | Count |
-|--------|-------|
-| ⭐ Total Stars Earned | 7 |
-| 📚 Total Repositories | 7 |
-| 🔨 Languages | Python, SQL, Excel |
-| 📈 Most Used Language | Python (95%+) |
+<div align="center">
 
-**Total Contributions:** 75+ | **Current Streak:** Active | **Longest Streak:** 4 days
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tania94-hub&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tania94-hub&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -59,46 +66,19 @@ Converting freelance data projects into sustainable income while actively pursui
 
 | Certification | Provider | Credential |
 |---------------|----------|-----------|
-| 🏆 Master Data Science Program | HCL GUVI (IIT Madras Incubated, NASSCOM Approved) | [View Certificate](https://www.guvi.in) |
-| 📚 SQL Certification | Professional Certification | Verified |
-| 📊 Advanced Excel Certification | Professional Certification | Verified |
-| 🐍 Python Programming Certification | Professional Certification | Verified |
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages:**
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow, NLTK)
-- SQL (MySQL, SQLite, Query optimization)
-- Advanced Excel (Pivot tables, VLOOKUP, Data modeling)
-
-**Data Analytics & Visualization:**
-- Pandas, NumPy, Matplotlib, Seaborn
-- Streamlit (Web app development)
-- Dashboard creation & reporting
-
-**Machine Learning:**
-- Supervised Learning (Classification, Regression)
-- Unsupervised Learning (Clustering, Dimensionality reduction)
-- NLP (Text preprocessing, TF-IDF, Cosine similarity)
-- Deep Learning (U-Net, CNN, Computer Vision)
-
-**Databases & Tools:**
-- MySQL, SQLite, Database design
-- Google Colab, Jupyter Notebook
-- Git & GitHub, VS Code
+| 🏆 Master Data Science Program | HCL GUVI (IIT Madras Incubated, NASSCOM Approved) | [View Certificate](https://www.zenclass.in/certificateDownload/nnddypFNEoaHRRIR) |
+| **Included Skills:** Python • SQL • Excel • PowerBI • Machine Learning • Data Analysis | Completed May 2026 | ✅ Verified |
 
 ---
 
 ## 💼 Professional Experience
 
-**Current Role:** Senior Associate, Order Management @ Wipro, Kolkata (2023 - Present)
+**Senior Associate - Order Management @ Wipro** (2023 - Present)
 - Led process optimization initiatives improving operational efficiency
 - Cross-functional collaboration with stakeholders across departments
 - Data-driven decision making and reporting
 
-**Previous Experience:** Tech Mahindra (May 2020 - 2023)
+**Tech Mahindra** (May 2020 - 2023)
 - **Total Professional Experience:** 6+ years
 
 ---
@@ -108,7 +88,7 @@ Converting freelance data projects into sustainable income while actively pursui
 - 📁 Building more **end-to-end data projects** with real-world datasets
 - ☁️ Learning **cloud basics** (BigQuery, AWS S3) for scalable data pipelines
 - 💡 Exploring ways to communicate **data insights** clearly and effectively
-- 🎯 Converting freelance leads into **sustainable income streams**
+- 🎯 Converting **freelance leads** into sustainable income
 - 📈 Pursuing **remote full-time Data Analyst opportunities**
 
 ---
